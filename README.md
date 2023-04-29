@@ -1,22 +1,23 @@
-##Pokémon App React Native
-Ceci est une application mobile développée en utilisant React Native pour afficher les informations sur les différents types de Pokémon. Elle utilise l'API PokéAPI pour récupérer les informations.
+## Pokémon App React Native
+This is a mobile application developed using React Native to display information about the different types of Pokémon. It uses the PokéAPI to retrieve informations.
 
-##Comment l'utiliser
-#Prérequis
-Node.js
-npm ou yarn
-Expo CLI
-#Installation
-Clonez le dépôt : git clone https://github.com/your-username/pokemon-app-react-native.git
-Installez les dépendances : npm install ou yarn
-Lancez l'application : npm start ou yarn start
-L'application va s'ouvrir dans votre navigateur par défaut ou sur votre smartphone en utilisant l'application Expo.
+## How to Use
+### Prerequisites
+- Node.js
+- npm or yarn
+- Expo CLI
 
-##Fonctionnalités
-Affichage de la liste des différents types de Pokémon.
-Affichage de la liste des Pokémon d'un type sélectionné.
-Affichage des détails d'un Pokémon sélectionné.
-##Captures d'écran
-Ajoutez ici quelques captures d'écran de l'application.
+### Installation
+- Clone the repository: git clone `https://github.com/your-username/pokemon-app-react-native.git`
+- Install dependencies: `npm install` or `yarn install`
+- Launch the application: `npm start` or `yarn start`
 
-##Lien Demo (expo.dev)
+## Features
+- Display of the list of different types of Pokémon.
+- Display of the list of Pokémon of a selected type.
+- Display of details of a selected Pokémon.
+
+## Video Demo
+
+## Demo Link (expo.dev)
+- `https://expo.dev/@yahyamourid/pokemon?serviceType=classic&distribution=expo-go`
