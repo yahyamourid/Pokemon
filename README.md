@@ -19,5 +19,16 @@ This is a mobile application developed using React Native to display information
 
 ## Video Demo
 
+
+https://user-images.githubusercontent.com/128039351/235328734-75a84f8f-6423-443a-8dc0-f773b5de6392.mp4
+
+
+
+
+
 ## Demo Link (expo.dev)
 - `https://expo.dev/@yahyamourid/pokemon?serviceType=classic&distribution=expo-go`
+
+
+
+
