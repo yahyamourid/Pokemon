@@ -1,6 +1,11 @@
 ## Pokémon App React Native
 This is a mobile application developed using React Native to display information about the different types of Pokémon. It uses the PokéAPI to retrieve informations.
 
+## Video Demo
+
+https://user-images.githubusercontent.com/128039351/235328989-7c9fd680-2707-4e45-a3a4-be8aaaaf51fe.mp4
+
+
 ## How to Use
 ### Prerequisites
 - Node.js
@@ -17,10 +22,7 @@ This is a mobile application developed using React Native to display information
 - Display of the list of Pokémon of a selected type.
 - Display of details of a selected Pokémon.
 
-## Video Demo
 
-
-https://user-images.githubusercontent.com/128039351/235328734-75a84f8f-6423-443a-8dc0-f773b5de6392.mp4
 
 
 
